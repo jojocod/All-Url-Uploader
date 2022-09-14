@@ -12,7 +12,7 @@
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kalanakt/All-Url-Uploader?logo=electron&logoColor=89fc00&style=social">
 </p>
 <br>
-
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/D3JJft?referralCode=jojo_dev)
 <h1>⛩ Introduction</h1>
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/D3JJft?referralCode=jojo_dev)
 <p>A simple telegram Bot, Upload Media File| video To telegram using the direct download link. (youtube, Mediafire, google drive, mega drive, etc)</p>
@@ -145,7 +145,7 @@ python3 bot.py
 
 <br>
 <em>Copyright (c) 2022-present <strong><a href="https://github.com/kalanakt">Hash Minner</a></strong></em>
-
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/D3JJft?referralCode=jojo_dev)
 <!--
 MIT License
 
