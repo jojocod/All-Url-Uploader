@@ -14,7 +14,7 @@
 <br>
 
 <h1>⛩ Introduction</h1>
-
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/D3JJft?referralCode=jojo_dev)
 <p>A simple telegram Bot, Upload Media File| video To telegram using the direct download link. (youtube, Mediafire, google drive, mega drive, etc)</p>
 <ul>
     <li>Youtube, GoogleDrive, Apple Music, Spotify, Resso, & Direct Links support.</li>
